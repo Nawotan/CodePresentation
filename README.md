@@ -3,5 +3,5 @@ This class draws a parabola of a ball's flight depending on two points (start an
 
 1. Create GameObjects: StartPoint and FinishPoint
 2. Create GameObject with LineRender and add BallTrajectory
-3. Make BallTrajectory
+3. Set up BallTrajectory
 4. Enjoy!
