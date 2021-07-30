@@ -12,7 +12,7 @@
 using UnityEngine;
 
 /// <summary>
-/// This class draws a parabola of the ball's flight depending on two points (start and finish) and the angle of the throw.
+/// This class draws a parabola of a ball's flight depending on two points (start and finish) and a shooting angle.
 /// </summary>
 public class BallTrajectory : MonoBehaviour {
 
